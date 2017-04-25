@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1492980064 source:g:\paul fac\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1492979262 g:\paul fac\tp_2_cascara\funciones.h
+
+1492977064 source:g:\paul fac\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1492977064 source:e:\paul fac\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1493073672 e:\paul fac\tp_2_cascara\funciones.h
+
+1493073450 source:e:\paul fac\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1493082236 source:d:\paul fac\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1493080509 d:\paul fac\tp_2_cascara\funciones.h
+
+1493080520 source:d:\paul fac\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1493157916 source:f:\paul fac\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1493156634 f:\paul fac\tp_2_cascara\funciones.h
+
+1493080522 source:f:\paul fac\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
